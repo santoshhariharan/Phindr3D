@@ -1,4 +1,5 @@
-<center><img src="phindr3d_icon.png" width="200" height="200"></img></center><br/>
+<p align="center">
+<img src="phindr3d_icon.png" width="200" height="200"></img></p><br/>
 <br/>
 
 ## <ins>Phindr3D</ins>
@@ -6,7 +7,7 @@
 Phindr3D is a comprehensive shallow-learning framework for automated quantitative phenotyping of three-dimensional (3D) high content screening image data using unsupervised data-driven voxel-based feature learning, which enables computationally facile classification, clustering and data visualization.
 
 ### <ins>Citation</ins>
-Please cite the original manuscript if you find Phindr3D useful for your work:
+<i>Please cite the original manuscript if you find Phindr3D useful for your work:</i>
 <br/>
 Mergenthaler P, Hariharan S, Pemberton JM, Lourenco C, Penn LZ, Andrews DW (2021) Rapid 3D phenotypic analysis of neurons and organoids using data-driven cell segmentation-free machine learning. PLoS Comput Biol 17(2): e1008630. https://doi.org/10.1371/journal.pcbi.1008630
 
