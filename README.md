@@ -14,7 +14,7 @@ Mergenthaler P, Hariharan S, Pemberton JM, Lourenco C, Penn LZ, Andrews DW (2021
 
 The code is written using Matlab 64 bit version 2017b. Download the repository and add it to your Matlab path.
 
-#### Depndencies
+#### Dependencies
 
 Download the Matlab <b><i>drtoolbox</b></i> from [here](https://lvdmaaten.github.io/drtoolbox/) and add it to your Matlab path. For affinity propagation, the Matlab code is already available as part of the Phindr3D package (under "Third Party").
 
