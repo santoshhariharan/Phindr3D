@@ -29,7 +29,7 @@ Test image data sets with an excerpt of the neuron and organoid data that will a
 A basic user manual is available [**here**](Manuals/Phindr3D_UserManual.pdf). Visit our [**FAQ**](https://github.com/santoshhariharan/Phindr3D/wiki/FAQ) page for answers to common questions.
 
 ### <ins>Phindr3D Organoid Contour Segmentation App</ins>
-The organoid contour segmentation feature of Phindr3D is provided as a separate app ("*Phindr3D-OrganoidCSApp*"). You can either download the Matlab code or a stand-alone executable program for Windows. Please see the [**Phindr3D Organoid Contour Segmentation App Manual**](Manuals/Phindr3D-Organoid-Contour-Segmentation-App_Manual.pdf) and [**Figure 5**](https://journals.plos.org/ploscompbiol/article/figure?id=10.1371/journal.pcbi.1008630.g005) or the [**Materials & Methods Section**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008630#sec009) of the PLOS Computational Biology Paper for details.
+The organoid contour segmentation feature of Phindr3D is provided as a separate app ("*Phindr3D-OrganoidCSApp*"). You can either download the Matlab code or a stand-alone executable program for Windows. Please see the [**Phindr3D Organoid Contour Segmentation App Manual**](Manuals/Phindr3D-Organoid-Contour-Segmentation-App_Manual.pdf) and [**Figure 5D**](https://journals.plos.org/ploscompbiol/article/figure?id=10.1371/journal.pcbi.1008630.g005) or the [**Materials & Methods Section**](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008630#sec009) of the *PLOS Computational Biology Paper* for details.
 
 #### Dependencies
 There are no dependencies for the Phindr3D Organoid Contour Segmentation App.
